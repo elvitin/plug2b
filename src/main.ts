@@ -4,6 +4,7 @@ import { setupCounter } from './counter.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <header>
 <h1>Plug2B</h1>
+<p><em>Website versão beta, a versão oficial ainda em desenvolvimento</em></p>
 <p>Seu HUB de soluções e serviços de T.I</p>
 </header>
 
